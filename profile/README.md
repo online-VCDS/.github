@@ -6,6 +6,8 @@ VCDS - ehemals bekannt unter dem Namen VAG-COM Diagnose-System - ist eine Kombin
 Über die Jahre hat es unterschiedliche Entwicklungspartner gegeben wobei sich zwei Stück besonders durch die Entwicklung von Diagnosehardware hervortun. 
 HEX und die <a href="https://www.auto-intern.de/shop/">Auto-Intern</a> GmbH aus Bochum.
 
+> __Note__
+Dies ist KEIN offizielles Repository von Ross-Tech LLC. (USA)
 
 Diese Github-Organisation ist der Versuch eine Open-Source Community für Erweiterungstools für das meistverkaufte Fahrzeugdiagnoseprodukt der Volkswagen AG (darunter auch Audi, Seat, Skoda) zu erstellen.
 Dank geht insbesondere an <a href="https://github.com/hadez16">@hadez16</a> für den Aufschlag, den er mit seinen Tools hingelegt hat!
