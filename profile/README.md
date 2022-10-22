@@ -19,9 +19,12 @@ online-VCDS wird gefördert von:
 Wenn du dich für die aktive Weiterentwicklung der Open-Source Third-Party Tools interessierst, dann joine doch einfach den <a href="http://dechat.vcds.de">VCDS.de Telegram-Channel</a>.
 
 ## Meilensteine
+### Done
+* Erster Release der Open-Source Version von Coding-Compare
+
+### To-Do
 * Mitte November 2022 - Erster Release der Single-Sign-On VCDS Webplattform
 * Anfang Dezember 2022 - Erster Release der Open-Source Version vom Admap-Roboter
-* Ende Januar 2023 - Erster Release der Open-Source Version von Coding-Compare
 * Ende Februar 2023 - Erster Release der Open-Source Version von VCDServiceReset
 * Ende März 2023 - Erster Release der Open-Source Version von VCDScripter
 
